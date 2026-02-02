@@ -23,12 +23,15 @@ All’interno troverai i seguenti file di configurazione:
 
   [Nameplate - Mobs](Mobs.txt)
 
+![Nameplate Mobs](img/mobs.jpg)
+
 - **Players.txt**  
   Configurazioni per le **nameplate dei giocatori**:
 
   [Nameplate - Players](Players.txt)
 
-![Nameplate Players](img/players.png)
+![Nameplate Players](img/players.jpg)
+
 ## ⚙️ Installazione
 
 1. Assicurati di avere **Platynator** installato e aggiornato.
