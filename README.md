@@ -2,7 +2,7 @@
 
 Platynator è un addon per **World of Warcraft** dedicato alla personalizzazione avanzata delle **nameplate** (unit frames sopra personaggi e nemici).  
 
-![Nameplate Preview](img/platy.png)
+![Nameplate Preview](img/platy.png) ![Nameplate midnight](img/World-of-Warcraft-Midnight.png)
 
 ## 📁 Contenuto del Repository
 
@@ -78,8 +78,8 @@ All’interno troverai i seguenti file di configurazione:
 ### No Interupt
 ![Nameplate no_interrupt](img/no_interrupt.jpg)
 
-### 
-![Nameplate no_interrupt](img/no_interrupt.jpg)
+### Uninterruptable
+![Nameplate Uninterruptable](img/Uninterruptable.jpg)
 
 ### Focus
 ![Nameplate focus](img/focus.jpg)
