@@ -28,6 +28,7 @@ All’interno troverai i seguenti file di configurazione:
 
   [Nameplate - Players](Players.txt)
 
+![Nameplate Players](img/players.png)
 ## ⚙️ Installazione
 
 1. Assicurati di avere **Platynator** installato e aggiornato.
