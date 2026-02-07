@@ -12,23 +12,24 @@ All’interno troverai i seguenti file di configurazione:
 
 - **Profile.txt**  
   Configurazione del profilo
-
+  
   [Nameplate - Profile](Profile.txt)
 
 - **Mobs.txt**  
   Configurazioni dedicate alle **nameplate dei nemici / mob**:
+  
   - Colori per tipo di unità
   - Evidenziazione target
   - Barre vita e risorse
   - Indicatori di pericolo o status
-
+  
   [Nameplate - Mobs](Mobs.txt)
 
 ![Nameplate Mobs](img/mobs.jpg)
 
 - **Players.txt**  
   Configurazioni per le **nameplate dei giocatori**:
-
+  
   [Nameplate - Players](Players.txt)
 
 ![Nameplate Players](img/players.jpg)
@@ -36,31 +37,42 @@ All’interno troverai i seguenti file di configurazione:
 ## 🛠️ Configurazione Platynator
 
 ### General
+
 ![Nameplate General](img/setting_1.png)
 
 ### Designer
+
 ![Nameplate Designer](img/setting_2.png)
 
 ### Style Select
+
 ![Nameplate Style Select](img/setting_3.png)
 
 ### Behaviour
+
 ![Nameplate Behaviour](img/setting_4.png)
 
 ### Positioning
+
 ![Nameplate Positioning](img/setting_5.png)
 
 ### Font
+
 ![Nameplate Font](img/setting_6.png)
 
 ## 🎮 Configurazione World of Warcraft
 
-### Barre 
+### Barre
+
 ![Wow Barre](img/barre_wow_1.png)
 
 ![Wow Barre](img/barre_wow_2.png)
 
 ![Wow Barre](img/barre_wow_3.png)
+
+## 🖼️ Interfaccia Gioco
+
+Qui trovi l'interfaccia completa [Interfaccia Completa](https://github.com/Rakeiroshi/Word-of-Warcraft-game-Interface-Tatakialkazu)
 
 ## ⚙️ Installazione
 
@@ -70,18 +82,22 @@ All’interno troverai i seguenti file di configurazione:
 4. Vai alla sezione **Import / Export**.
 5. Copia il contenuto del file desiderato.
 6. Incollalo nel campo di importazione e conferma.
-7. Ricarica l’interfaccia.
+7. Ricarica l’interfaccia
 
 ## 📷 Gallery
 
 ### Interrupt - Quest
+
 ![Nameplate Interrupt - Quest](img/interrupt_and_quest.jpg)
 
 ### No Interupt
+
 ![Nameplate no_interrupt](img/no_interrupt.jpg)
 
 ### Uninterruptable
+
 ![Nameplate Uninterruptable](img/Uninterruptable.jpg)
 
 ### Focus
+
 ![Nameplate focus](img/focus.jpg)
